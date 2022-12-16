@@ -1,5 +1,5 @@
 ## Task-Master 
-<img src="images/planner-07.png" alt="logo full" width=25%> 
+<img src="images/Add tasks.gif" alt="logo full" width=25%> 
 Struggling with managing expenses, attendance and setting up your college schedule? 
 Too much apps to handle all these tasks? Don't worry! Here's a platform where a student 
 (or basically college student) will find all basic necessities under one roof, 
@@ -27,6 +27,12 @@ Know more about [pull request](https://docs.github.com/en/free-pro-team@latest/g
 
 [Visit Here](https://mishrarahul07.github.io/Task-Master/)
 <hr>
+
+## :computer: Screenshots
+
+* Home Page
+<img src="Screenshot.png" alt="Screenshot" width=50%>
+
 
 ## :clipboard: Contributor
 Connect Here:  <a href = "https://www.linkedin.com/in/mishra-rahul07/" target="_blank">Rahul Mishra</a>
